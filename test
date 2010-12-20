@@ -1,2 +1,3 @@
 echo 'no passing'
+echo 'no passing'
 exit 1
