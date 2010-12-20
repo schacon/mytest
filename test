@@ -1,4 +1,4 @@
 echo 'no passing'
 echo 'no passing'
 echo 'no passing'
-exit 0
+exit 1
