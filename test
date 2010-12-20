@@ -1,2 +1,2 @@
-echo 'passing'
-exit 0
+echo 'not passing'
+exit 1
